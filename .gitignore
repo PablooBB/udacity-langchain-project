@@ -1,3 +1,6 @@
+# Contexto académico (documentación interna)
+contexto/
+
 # API keys y variables de entorno
 .env
 .env.local
