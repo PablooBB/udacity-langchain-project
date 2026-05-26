@@ -1,0 +1,48 @@
+# API keys y variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+.env/
+
+# Distribución y build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Testing y coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code (configuración local del IDE)
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
